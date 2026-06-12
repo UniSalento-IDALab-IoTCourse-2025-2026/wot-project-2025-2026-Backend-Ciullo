@@ -16,7 +16,13 @@ in caso di eventi critici, includendo la posizione GPS del paziente.
 5. **Dashboard paziente + Dashboard medico** — due web app React separate
 
 ## Repository delle componenti
-Da aggiungere
+| Componente | Repository |
+|---|---|
+| Raspberry Pi (edge node) | [wot-project-2025-2026-RaspberryPi-Ciullo](https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-RaspberryPi-Ciullo) |
+| App Mobile (GPS) | [wot-project-2025-2026-MobileApp-Ciullo](https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-MobileApp-Ciullo) |
+| Backend | questo repository |
+| Dashboard | [wot-project-2025-2026-Dashboard-Ciullo](https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-Dashboard-Ciullo) |
+| Presentazione | [wot-project-2025-2026-Presentation-Ciullo](https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-Presentation-Ciullo) |
 
 ## Questa componente — Backend
 Il backend gestisce la ricezione, persistenza ed esposizione dei dati biomedici
